@@ -4,8 +4,9 @@ Currently I'm a brazillian college computer science student and a opinionated ty
 
 ```ts
 @EyeCandyModule({
-  imports: [TypescriptModule, ReactModule, CoffeModule],
-  providers: [],
+  imports: [TypescriptModule, ReactModule, CoffeModule, JokeModule],
+  providers: [HeaderService, BodyService, FooterService],
+  exports: [FooterService]
 })
 export class Readme implements OnModuleInit {
   public onModuleInit() {
@@ -41,3 +42,11 @@ export class Readme implements OnModuleInit {
 
 ![ceopaludetto](https://github-readme-stats.vercel.app/api?username=ceopaludetto&show_icons=true&count_private=true)
 
+### Contact
+
+[<img align="left" alt="ceopaludetto | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+[<img align="left" alt="ceopaludetto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[twitter]: https://twitter.com/soreduard
+[linkedin]: https://linkedin.com/in/ceopaludetto/

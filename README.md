@@ -3,7 +3,15 @@
 Currently I'm a brazillian college computer science student and a opinionated typescript developer, since github deployed profile readmes I'm decorated this file with my lovely tecnologies.
 
 ```ts
-@EyeCandy()
+@EyeCandyModule({
+  imports: [TypescriptModule, ReactModule, CoffeModule],
+  providers: [],
+})
+export class Readme implements OnModuleInit {
+  public onModuleInit() {
+    console.log("Welcome to my README.md");
+  }
+}
 ```
 
 *Did you understand the joke? I'm so sorry.*

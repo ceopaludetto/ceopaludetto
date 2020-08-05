@@ -6,7 +6,7 @@ Currently I'm a brazillian college computer science student and a opinionated ty
 @EyeCandyModule({
   imports: [TypescriptModule, ReactModule, CoffeModule, JokeModule],
   providers: [HeaderService, BodyService, FooterService],
-  exports: [FooterService]
+  exports: [FooterService],
 })
 export class Readme implements OnModuleInit {
   public onModuleInit() {
@@ -17,36 +17,33 @@ export class Readme implements OnModuleInit {
 
 *Did you understand the joke? I'm so sorry.*
 
-<div style="display: flex; gap: 1rem; flex-wrap: wrap;">
-  <div>
 
-  ### Some repos
+### Important Links
 
-  ![nest-new-graphql](https://github-readme-stats.vercel.app/api/pin/?username=ceopaludetto&repo=nest-new-graphql)
+[<img align="left" alt="ceopaludetto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-  ![sequelize-typescript-cli](https://github-readme-stats.vercel.app/api/pin/?username=ceopaludetto&repo=sequelize-typescript-cli)
+[<img align="left" alt="ceopaludetto | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 
-  </div>
-  <div>
+[twitter]: https://twitter.com/soreduard
+[linkedin]: https://linkedin.com/in/ceopaludetto/
 
-  ### Languages
+<br/>
 
-  ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceopaludetto&layout=compact)
 
-  
-  </div>
-</div>
+### Repos
+
+[![nest-new-graphql](https://github-readme-stats.vercel.app/api/pin/?username=ceopaludetto&repo=nest-new-graphql)](https://github.com/ceopaludetto/nest-new-graphql)
+
+[![sequelize-typescript-cli](https://github-readme-stats.vercel.app/api/pin/?username=ceopaludetto&repo=sequelize-typescript-cli)](https://github.com/ceopaludetto/sequelize-typescript-cli)
+
+
+### Languages
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceopaludetto&layout=compact)
+
 
 ### Stats
 
 ![ceopaludetto](https://github-readme-stats.vercel.app/api?username=ceopaludetto&show_icons=true&count_private=true)
 
-### Contact
-
-[<img align="left" alt="ceopaludetto | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-[<img align="left" alt="ceopaludetto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[twitter]: https://twitter.com/soreduard
-[linkedin]: https://linkedin.com/in/ceopaludetto/

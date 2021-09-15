@@ -38,8 +38,8 @@ export class CaduModule implements OnModuleInit {
 
 <br/>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceopaludetto&layout=compact&theme=dracula&custom_title=Linguagens%20Mais%20Usadas)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceopaludetto&layout=compact&theme=dark&custom_title=Linguagens%20Mais%20Usadas&hide_border=true)
 
 <br/>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ceopaludetto&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&custom_title=Minhas%20Estatísticas&locale=pt-br)
+![Stats](https://github-readme-stats.vercel.app/api?username=ceopaludetto&show_icons=true&count_private=true&theme=dark&include_all_commits=true&custom_title=Minhas%20Estatísticas&locale=pt-br&hide_border=true)

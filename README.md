@@ -15,8 +15,7 @@ export class Readme implements OnModuleInit {
 }
 ```
 
-*Did you understand the joke? I'm so sorry.*
-
+_Did you understand the joke? I'm so sorry._
 
 ### Important Links
 
@@ -24,26 +23,21 @@ export class Readme implements OnModuleInit {
 
 [<img align="left" alt="ceopaludetto | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-
 [twitter]: https://twitter.com/soreduard
 [linkedin]: https://linkedin.com/in/ceopaludetto/
 
 <br/>
 
+## Métricas
 
-### Repos
+[![nest-new-graphql](https://github-readme-stats.vercel.app/api/pin/?username=ceopaludetto&repo=new-domus-frontend&theme=dark)](https://github.com/ceopaludetto/nest-new-graphql)
 
-[![nest-new-graphql](https://github-readme-stats.vercel.app/api/pin/?username=ceopaludetto&repo=nest-new-graphql)](https://github.com/ceopaludetto/nest-new-graphql)
+[![sequelize-typescript-cli](https://github-readme-stats.vercel.app/api/pin/?username=ceopaludetto&repo=new-domus-backend&theme=dark)](https://github.com/ceopaludetto/sequelize-typescript-cli)
 
-[![sequelize-typescript-cli](https://github-readme-stats.vercel.app/api/pin/?username=ceopaludetto&repo=sequelize-typescript-cli)](https://github.com/ceopaludetto/sequelize-typescript-cli)
+<hr/>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceopaludetto&layout=compact&theme=dark&custom_title=Linguagens%20Mais%20Usadas"/>
 
-### Languages
+<hr/>
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceopaludetto&layout=compact)
-
-
-### Stats
-
-![ceopaludetto](https://github-readme-stats.vercel.app/api?username=ceopaludetto&show_icons=true&count_private=true)
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ceopaludetto&show_icons=true&count_private=true&theme=dark&include_all_commits=true&custom_title=Minhas%20Estatísticas&locale=pt-br"/>

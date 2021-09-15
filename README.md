@@ -34,10 +34,10 @@ _Did you understand the joke? I'm so sorry._
 
 [![sequelize-typescript-cli](https://github-readme-stats.vercel.app/api/pin/?username=ceopaludetto&repo=new-domus-backend&theme=dark)](https://github.com/ceopaludetto/sequelize-typescript-cli)
 
-<hr/>
+## &nbsp;
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceopaludetto&layout=compact&theme=dark&custom_title=Linguagens%20Mais%20Usadas"/>
 
-<hr/>
+## &nbsp;
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ceopaludetto&show_icons=true&count_private=true&theme=dark&include_all_commits=true&custom_title=Minhas%20Estatísticas&locale=pt-br"/>

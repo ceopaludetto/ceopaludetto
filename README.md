@@ -1,27 +1,33 @@
-## Hi there, I'm Carlos Eduardo - aka ceopaludetto 🇧🇷
+# Opa, sou o Carlos Eduardo aka Cadú 🇧🇷
 
-Currently I'm a brazillian college computer science student and a opinionated typescript developer, since github deployed profile readmes I'm decorated this file with my lovely tecnologies.
+Sou estudante de ciência da computação e trabalho com desenvolvimento de software, particularmente amo Typescript, mas não vou me incomodar ~~tanto~~ em programar num projeto que contenha javascript puro. Bom, aqui você vai encontrar uns códigos que crio nas horas vagas e alguns testes/aulas feitos no passado. E logo abaixo tem o módulo em NestJS que me define. Aproveite!
 
 ```ts
-@EyeCandyModule({
-  imports: [TypescriptModule, ReactModule, CoffeModule, JokeModule],
-  providers: [HeaderService, BodyService, FooterService],
-  exports: [FooterService],
+@Module({
+  imports: [
+    TypescriptModule,
+    ReactModule,
+    GraphQLModule,
+    CoffeModule,
+    GamesModule,
+    NotFunnyJokesModule,
+  ],
+  providers: [KnowledgeResolver, KnowledgeService],
 })
-export class Readme implements OnModuleInit {
+export class CaduModule implements OnModuleInit {
+  public constructor(private readonly logger: Logger) {}
+
   public onModuleInit() {
-    console.log("Welcome to my README.md");
+    this.logger.info("Welcome to my README.md");
   }
 }
 ```
 
-_Did you understand the joke? I'm so sorry._
+## Meus Links
 
-### Important Links
+[<img align="left" alt="ceopaludetto | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 
-[<img align="left" alt="ceopaludetto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" alt="ceopaludetto | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ceopaludetto | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />][twitter]
 
 [twitter]: https://twitter.com/soreduard
 [linkedin]: https://linkedin.com/in/ceopaludetto/
@@ -30,27 +36,10 @@ _Did you understand the joke? I'm so sorry._
 
 ## Métricas
 
-[![nest-new-graphql](https://github-readme-stats.vercel.app/api/pin/?username=ceopaludetto&repo=new-domus-frontend&theme=dracula)](https://github.com/ceopaludetto/nest-new-graphql)
-
-[![sequelize-typescript-cli](https://github-readme-stats.vercel.app/api/pin/?username=ceopaludetto&repo=new-domus-backend&theme=dracula)](https://github.com/ceopaludetto/sequelize-typescript-cli)
-
-<table>
-  <tbody>
-    <tr>
-      <td style="vertical-align:top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceopaludetto&layout=compact&theme=dracula&custom_title=Linguagens%20Mais%20Usadas"/>
-      </td>
-      <td style="vertical-align:top">
-        <img src="https://github-readme-stats.vercel.app/api?username=ceopaludetto&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&custom_title=Minhas%20Estatísticas&locale=pt-br"/>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- <br/>
+<br/>
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceopaludetto&layout=compact&theme=dracula&custom_title=Linguagens%20Mais%20Usadas)
 
 <br/>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ceopaludetto&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&custom_title=Minhas%20Estatísticas&locale=pt-br) -->
+![Stats](https://github-readme-stats.vercel.app/api?username=ceopaludetto&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&custom_title=Minhas%20Estatísticas&locale=pt-br)

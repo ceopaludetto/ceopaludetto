@@ -12,7 +12,7 @@ Sou estudante de ciência da computação e trabalho com desenvolvimento de soft
     GamesModule,
   ],
   providers: [KnowledgeResolver, KnowledgeService, BoringJokesService],
-  exports: [BoringJokesService]
+  exports: [BoringJokesService],
 })
 export class CaduModule implements OnModuleInit {
   public constructor(private readonly logger: Logger) {}
@@ -44,8 +44,4 @@ export class CaduModule implements OnModuleInit {
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git"/>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift"/>
-</div>
-
-<div align="center">
-  <img src="https://github.com/ceopaludetto/ceopaludetto/blob/output/github-contribution-grid-snake.svg" alt="Cobra"/>
 </div>

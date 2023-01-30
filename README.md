@@ -1,6 +1,6 @@
 # Opa, sou o Carlos Eduardo aka Cadú(ele/dele) 🇧🇷
 
-Sou estudante de ciência da computação e trabalho com desenvolvimento de software, particularmente amo Typescript, mas não vou me incomodar em programar num projeto que contenha javascript puro. Bom, aqui você vai encontrar uns códigos que crio nas horas vagas e alguns testes/aulas feitos no passado. E logo abaixo tem o módulo em NestJS que me define.
+Sou estudante de ciência da computação e trabalho com desenvolvimento de software, particularmente amo Typescript, mas não vou me incomodar em programar num projeto que contenha Javascript puro. Bom, aqui você vai encontrar uns códigos que crio nas horas vagas e alguns testes/aulas feitos no passado. E logo abaixo tem o módulo em NestJS que me define.
 
 ```ts
 @Module({
@@ -26,7 +26,7 @@ export class CaduModule implements OnModuleInit {
 <div align="center">
   <a href="mailto:ceo.paludetto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/ceopaludetto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/soreduard" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://twitter.com/ceopaludetto" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </div>
 
 ##

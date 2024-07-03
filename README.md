@@ -1,6 +1,6 @@
 # Hi, I'm Carlos Eduardo aka Cadú(he/him) 🇧🇷
 
-I study CS at UFABC and currently I'm Senior Software Developer at marvin. I love Typescript, but pure Javascript does not bother me. Here you'll find some dropped code and some libraries that I built in the past.
+I study CS at UFABC and currently I'm Senior Software Developer at Mercado de Recebíveis. I love Typescript, but pure Javascript does not bother me. Here you'll find some dropped code and some libraries that I built in the past.
 
 ##
 

@@ -35,5 +35,5 @@ I study CS at UFABC and currently I'm Senior Software Developer at marvin. I lov
 ####
 
 <div align="center">
-  More used -> less used
+  More used -> Less used
 </div>

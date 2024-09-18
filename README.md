@@ -7,7 +7,7 @@ I study CS at UFABC and currently I'm Senior Software Developer at Mercado de Re
 <div align="center">
   <a href="mailto:ceo.paludetto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/ceopaludetto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/ceopaludetto" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://bsky.app/profile/ceopaludetto.com" target="_blank"><img src="https://img.shields.io/badge/-Bluesky-%232f6ef6?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/></a>
 </div>
 
 ###

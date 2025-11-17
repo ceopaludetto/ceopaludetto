@@ -1,6 +1,6 @@
 # Hi, I'm Carlos Eduardo aka Cadú(he/him) 🇧🇷
 
-I study CS at UFABC and currently I'm Senior Software Developer at Bradesco.
+I study CS at UFABC and currently I'm Senior Software Developer at Intelipost.
 
 ##
 
